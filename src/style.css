@@ -3,9 +3,8 @@ body{
 }
 h1{
     color: #6d7f5e;
-
+    font-family: unset;
 }
 h2{
     color: #6d7f5e;
-
 }
