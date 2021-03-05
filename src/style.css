@@ -24,7 +24,7 @@ img{
 }
 
 img:hover{
-    color-adjust: white;
+    color-interpolation-filters: white;
     color: #6d7f5e;
 }
 
@@ -37,7 +37,7 @@ footer{
 }
 
 .container{
-    padding-top: 100px;
+    padding-top: 60px;
     text-align: center;
     align-items: center;
     margin-bottom: 0;
