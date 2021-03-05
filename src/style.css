@@ -43,19 +43,10 @@ footer{
     margin-bottom: 0;
 }
 
-.container2{
-    padding-top: 50px;
-    text-align: center;
-    align-items: center; 
-
-}
-
 .row{
     display: block;
     margin: 0;
-  
-
-}
+  }
 
 .col-sm{
     display: block;
