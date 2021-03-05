@@ -24,7 +24,7 @@ img{
 }
 
 img:hover{
-    background-color: white;
+    color-adjust: white;
     color: #6d7f5e;
 }
 
