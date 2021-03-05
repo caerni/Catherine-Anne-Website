@@ -20,6 +20,12 @@ img{
     height: 400px;
     box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
     cursor: pointer;
+    transition: all 200ms ease-in-out;
+}
+
+img:hover{
+    background-color: white;
+    color: #6d7f5e;
 }
 
 footer{
