@@ -113,3 +113,9 @@ footer{
 
   }
 
+.row:before, .row:after {
+    width:0px; 
+    height:0px;
+    display: inline-block;
+}
+
