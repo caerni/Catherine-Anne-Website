@@ -86,3 +86,7 @@ footer{
     margin: 0;
     max-width: 50px;
 }
+
+image{
+    max-width: 30px;
+}
