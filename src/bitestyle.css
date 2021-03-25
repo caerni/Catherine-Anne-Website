@@ -78,13 +78,10 @@ footer{
 
 }
 
-.row{
-    display: block;
-    margin: 0;
-  }
+
 
 .col-sm{
     display: block;
     margin: 0;
-   
+    max-width: fit-content;
 }
