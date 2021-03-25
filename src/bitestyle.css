@@ -74,6 +74,8 @@ footer{
     align-items: center;
     margin-bottom: 0;
     position: relative;
+    max-width: 100%;
+
 }
 
 .row{
@@ -84,9 +86,5 @@ footer{
 .col-sm{
     display: block;
     margin: 0;
-    max-width: 50px;
-}
-
-image{
-    max-width: 30px;
+   
 }
