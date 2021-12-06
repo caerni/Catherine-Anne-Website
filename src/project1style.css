@@ -1,8 +1,8 @@
 body{
-    background: linear-gradient(to right, #ffefba, #ffffff);
+    background: linear-gradient(to right, #706d6da6, #b3b1b1a6);
 }
 h1{
-    color: #6d7f5e;
+    color: #f4f8f1;
     font-family: 'Oswald', sans-serif;
     font-size: 80px;
     padding-top: 50px;
@@ -11,7 +11,7 @@ h1{
 }
 h2{
     font-family: 'Open Sans Condensed', sans-serif;
-    color: #6d7f5e;
+    color:  #f4f8f1;
     padding-top: 20px;
     padding-left: 50px;
     padding-bottom: 60px;
